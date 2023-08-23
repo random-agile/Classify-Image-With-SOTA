@@ -1,7 +1,0 @@
-InceptionV3 Adam Optimizer
-Computing Time 10 Epoch : 1132secondes, 18.86 minutes, 113.2 secondes par epoch
-Validation Accuracy 74%
-
-InceptionV3 Lion Optimizer
-Computing Time 10 Epoch : 1112secondes, 111.2 secondes par epoch
-Validation Accuracy 

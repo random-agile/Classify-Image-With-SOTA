@@ -1,0 +1,3 @@
+Model,Test Loss,Test Accuracy
+ViT Adam,1.61,85.22
+ViT SGD,1.58,87.95
